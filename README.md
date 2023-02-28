@@ -16,4 +16,4 @@ known conditions.
 
 * Data was generated using the main.py file. Note that main.py is not properly formatted as it was drawn directly from the pdf paper.
 
-Read the full paper here: https://drive.google.com/file/d/1UiXFapS8OwSIyPCfG-PD2wBK3YPBufFJ/view?usp=sharing
+Read the full paper at the pdf file in this repository.
